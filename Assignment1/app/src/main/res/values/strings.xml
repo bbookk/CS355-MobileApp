@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Assignment1</string>
+    <string name="name">Name</string>
+    <string name="lastname">Last Name</string>
+    <string name="age">Age</string>
+    <string name="email">E-mail</string>
+    <string name="phone">Phone No.</string>
+    <string name="btn">Submit</string>
+</resources>
